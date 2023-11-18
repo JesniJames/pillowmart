@@ -1,0 +1,247 @@
+
+*{
+    font-family: "Rubik", sans-serif;
+    padding: 0;
+    margin: 0;
+   
+}
+#menu{
+    color: rgb(73, 8, 73);
+}
+.pic1{
+    margin-top:0%;
+    padding: 0%;
+}
+#bann{
+    position: absolute;
+    right: 0;
+    margin-top: 50;
+    
+    
+}
+.img-fluid{
+    position: absolute;
+    top: 88%;
+    right: 38%;
+}
+/* .best{
+    margin-top: 65%;
+    padding-top: 20;
+   
+} */
+#p1{
+    color: rgb(73, 8, 73);
+    font-size: 75px;
+    margin-top: 25%;
+    
+}
+.gh{
+    height: 100vh;
+ }
+#btn{
+    background-color: rgb(134, 61, 134);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 45px;
+    text-align: center;
+    font-size: 17px;
+    margin: 4px 2px;
+    transition: 0.3s;
+}
+
+#btn:hover{
+    background-color: #fff;
+    -webkit-text-fill-color:  rgb(73, 8, 73);
+    opacity: 1;
+    border: 1px solid; 
+    border-color:  rgb(73, 8, 73);
+}
+
+.div1{
+    
+    background-color: white;
+}
+.icon{
+    color: rgb(73, 8, 73);
+    padding-right: 10%;
+    padding-top: 2%;
+}
+
+i{
+    padding: 10px; 
+}
+.pillowh{
+    text-align: center;
+    color:rgb(134, 61, 134);
+}
+.home{
+    /* display: flex; */
+    /* text-align: center; */
+    /* align-items: center; */
+    /* font-weight: 400; */
+    position: relative;
+}
+.banner_img{
+    max-width: 55%;
+    top: 0%;
+    bottom: 0;
+    position: absolute;
+    right: 0;
+}
+.under {
+    position: absolute;
+   padding-left: 5%;
+    padding-top:40 px;
+    z-index: -1;
+  }
+  
+  .over {
+    position: absolute;
+    padding-left: 7%;
+    padding-top:1.8%;
+    z-index: -1;
+  }
+  .under2 {
+    position: absolute;
+   padding-left: 13%;
+    padding-top: 40px;;
+    z-index: -1;
+  }
+  
+  .over2 {
+    position: absolute;
+    padding-right: 18%;
+    padding-top:5%;
+    z-index: -1;
+  }
+  .under3 {
+    width: 500px;
+    height: 460px;
+    position: absolute;
+   padding-left: 5%;
+    padding-top:40 px;
+    z-index: -1;
+  }
+  
+  .over3 {
+    width: 580px;
+    height: 500px;
+    position: absolute;
+    padding-left: 7%;
+    padding-top:1.8%;
+    z-index: -1;
+  }
+  
+
+
+.but1{
+    font-size: large;
+    border-radius: 15px;
+    border: 1px solid;
+    color: white;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    background-color: #A288A6;
+
+}
+.but1:hover{
+    background: white;
+    color: #A288A6;
+}
+.but2:hover{
+    background: #A288A6;
+    color: white;
+}
+.but2{
+    border: 1px solid #e388e3;
+    color:#e388e3;
+    background: white;
+    border-radius: 15px;
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    font-size: large;
+}
+.feedback{
+    
+    background-color: rgb(180, 119, 180);
+    height: 50vh;
+    /* position: relative; */
+}
+.client{
+    padding-top: 4%;
+    padding-left: 45%;
+    align-items: center;
+}
+.p1{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+.p2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+#card{
+    text-align: center;
+    border: 1px solid;
+    border-color:  rgb(180, 119, 180);
+    padding: 10px 20px;
+}
+.promotion{
+    background-color:  rgb(180, 119, 180);
+    height: 60vh;
+    padding-top: 8%;
+}
+.last{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+.email{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color:rgb(180, 119, 180);
+    
+}
+#btn2{
+    background-color:rgb(180, 119, 180);
+    border-color: white;
+    color: white;
+}
+#btn2:hover{
+    background-color: white;
+    color:rgb(180, 119, 180);
+}
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding-top: 40px;
+    padding-left: 6%;
+    height: 40vh;
+    /* padding-right: 25%; */
+}
+.hero .ul1 .li1{
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px 15px ;
+}
+nav .ul1 .li1 a{
+    text-decoration: none;
+    color: rgb(180, 119, 180);
+    /* font-weight: bold; */
+    font-size: large;
+}
+.icon1{
+    color:rgb(73, 8, 73);
+    font-size: 25px;
+    padding-right: 6%;
+    /* padding-top: 1%; */
+}
+.terms{
+    padding-left: 15%;
+}
